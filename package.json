@@ -1,6 +1,6 @@
 {
   "name": "helpscout-pusher-js-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "Pusher plugin for batching auth requests in one HTTP call",
   "main": "lib/pusher-auth.js",
